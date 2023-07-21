@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+.dice{
+    
+    /* text-align: center;
+    display: inline-block; */
+    display: flex;
+}
+body{
+    background-color: rgb(60, 60, 133);
+}
+h1{
+    margin: 30px;
+    /* text-shadow: 2px 0 white;  horizontal vertical color */
+    font-size: 6rem;
+    color: rgb(53, 148, 192);
+    font-family: 'Tektur', cursive;;
+}
+p{
+    font-family: 'Tektur', cursive;
+    font-size: 2rem;
+}
+button{
+    width: 89px;
+    height: 32px;
+    cursor: pointer;
+    border: none;
+    background-color: rgb(22, 172, 210);
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+img{
+    width: 30%;
+}
